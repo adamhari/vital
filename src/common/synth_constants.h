@@ -47,7 +47,7 @@ namespace vital {
   constexpr int kDefaultKeyboardOffset = 48;
   constexpr wchar_t kDefaultKeyboardOctaveUp = 'x';
   constexpr wchar_t kDefaultKeyboardOctaveDown = 'z';
-  const std::wstring kDefaultKeyboard = L"awsedftgyhujkolp;'";
+  const std::wstring kDefaultKeyboard = L"zsxdcvgbhnjm,l.;/q2w3e4rt6y7ui9o0p-[]";
 
   const std::string kPresetExtension = "vital";
   const std::string kWavetableExtension = "vitaltable";
